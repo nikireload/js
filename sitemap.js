@@ -6,7 +6,7 @@ var tocConfig = {
   thumbWidth: 70,
   navText: "Load More &#9660;",
   frontText: "Top &uArr;",
-  noImage: "http://2.bp.blogspot.com/-aflQW65J1qo/WJVlljkUcII/AAAAAAAAANY/LxpG0ZJ3bgE7uJoMVIqRTYc55xuZg4XdwCK4B/s1600/niki-mobile.com.png",
+  noImage: "//2.bp.blogspot.com/-aflQW65J1qo/WJVlljkUcII/AAAAAAAAANY/LxpG0ZJ3bgE7uJoMVIqRTYc55xuZg4XdwCK4B/s1600/niki-mobile.com.png",
   loading: "<span>Loading...</span>",
   searching: "<span>Searching...</span>",
   MonthNames: ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Agu", "Sep", "Okt", "Nov", "Des"],
